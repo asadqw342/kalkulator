@@ -1,0 +1,7 @@
+D:\dotnet\simple-calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\dotnet\simple-calculator\Calculator\bin\Debug\Calculator.exe
+D:\dotnet\simple-calculator\Calculator\bin\Debug\Calculator.pdb
+D:\dotnet\simple-calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\dotnet\simple-calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\dotnet\simple-calculator\Calculator\obj\Debug\Calculator.exe
+D:\dotnet\simple-calculator\Calculator\obj\Debug\Calculator.pdb

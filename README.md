@@ -1,0 +1,1 @@
+# pomana_kalkulator
